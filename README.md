@@ -1,7 +1,7 @@
 ### Nate Breznau
 
 Postdoctoral Researcher
-(SOCIUM Research Center on Inequality and Social Policy)[https://www.socium.uni-bremen.de/home/en/]
+[SOCIUM Research Center on Inequality and Social Policy](https://www.socium.uni-bremen.de/home/en/)
 University of Bremen
 
 Principal Investigator
