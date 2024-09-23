@@ -1,8 +1,8 @@
 ### Nate Breznau
 
 **Postdoctoral Researcher** <br>
-[SOCIUM Research Center on Inequality and Social Policy](https://www.socium.uni-bremen.de/home/en/) <br>
-University of Bremen <br>
+[German Institute for Adult Education](https://www.die-bonn.de/institut) <br>
+Leibniz Center for Lifelong Learning <br>
 <br>
 **Principal Investigator** <br>
 
@@ -13,4 +13,4 @@ German Science Foundation funded project <br>
 German Science Foundation funded project <br>
 <br>
 [Academic Website](https://sites.google.com/site/nbreznau/) <br>
-[Crowdid blog](https://crowdid.hypotheses.org/author/crowdid)
+[Crowdid, my blog](https://crowdid.hypotheses.org/author/crowdid)
